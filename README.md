@@ -26,12 +26,6 @@ Conducted exploratory data analysis on 729,000+ New York City taxi trip data rec
 * Average speed of travel is about 12 km/hr.
 * Data cleaning helped improve the analysis process.
 
-## Conclusion
-
-* Trip duration forecasting using ML models.
-* Interactive dashboard using Power BI.
-* App Deployment using Streamlit.
-
 ## Author
 
 Harsh Jha
